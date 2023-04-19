@@ -1,2 +1,3 @@
-# types
-Little collection of types I like to use
+# Types
+
+A small collection of type helpers that I find very useful.
